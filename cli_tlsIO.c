@@ -10,7 +10,7 @@
 #include <arpa/inet.h>
 #include <sys/socket.h>
 #include <netinet/in.h>
-#include "encrypt.h" //TLS stuff
+#include "encrypt.c" //TLS stuff
 
 #define BUFF 4096
 
